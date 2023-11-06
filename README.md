@@ -56,7 +56,7 @@
     <td align="center"><a href="https://github.com/GuKyoHwang" title="Code">GukyoHwang</a></td>
     <td align="center"><a href="https://github.com/gjsk132" title="Code">gjsk132</a></td>
     <td align="center"><a href="https://github.com/Dolchae" title="Code">Dolchae</a></td>
-    <td align="center"><a href="https://github.com/xxubin04" title="Code">ccubin04</a></td>
+    <td align="center"><a href="https://github.com/xxubin04" title="Code">xxubin04</a></td>
   </tr>
 </table>
 
