@@ -1,9 +1,7 @@
 from sys import stdin
 
-# aList = [[0] for _ in range(7)]
 stack = [[] for _ in range(7)]
 num = 0
-
 a, b = map(int, stdin.readline().split())
 
 for i in range(a):
