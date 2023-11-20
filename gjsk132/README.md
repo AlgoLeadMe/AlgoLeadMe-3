@@ -1,6 +1,7 @@
 | 차시 |    날짜    | 문제유형 | 링크 | 풀이 |
 |:----:|:---------:|:----:|:-----:|:----:|
-| 1차시 | 2023.11.13 | 구현 | [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | - |
-| 2차시 | 2023.11.15 | 그리디 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | - |
-| 3차시 | 2023.11.17 | 이진탐색 | [게임](https://www.acmicpc.net/problem/1072) | - |
+| 1차시 | 2023.11.13 | 구현 | [1244 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | - |
+| 2차시 | 2023.11.15 | 그리디 | [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541) | - |
+| 3차시 | 2023.11.17 | 이분탐색 | [1072 게임](https://www.acmicpc.net/problem/1072) | - |
+| 4차시 | 2023.11.20 | 이분탐색 | [1920 수찾기](https://www.acmicpc.net/problem/1920) | - |
 ---
