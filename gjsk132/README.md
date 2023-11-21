@@ -4,4 +4,5 @@
 | 2차시 | 2023.11.15 | 그리디 | [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541) | - |
 | 3차시 | 2023.11.17 | 이분탐색 | [1072 게임](https://www.acmicpc.net/problem/1072) | - |
 | 4차시 | 2023.11.20 | 이분탐색 | [1920 수찾기](https://www.acmicpc.net/problem/1920) | - |
+| 5차시 | 2023.11.22 | DFS | [1012 유기농 배추](https://www.acmicpc.net/problem/1012) | - |
 ---
