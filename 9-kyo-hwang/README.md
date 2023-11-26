@@ -8,5 +8,6 @@
 | 4차시 | 2023.11.14 | 트라이 | [5052 전화번호 목록](https://www.acmicpc.net/problem/5052) | [#11](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/11) | 
 | 5차시 | 2023.11.17 | 플로이드-워셜 | [1613 역사](https://www.acmicpc.net/problem/1613) | [#15](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/15) | 
 | 6차시 | 2023.11.19 | 다익스트라 | [22865 가장 먼 곳](https://www.acmicpc.net/problem/22865) | [#19](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/19) | 
-| 7차시 | 2023.11.20 | 분리 집합 | [10775 공항](https://www.acmicpc.net/problem/10775) | [#23](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/24) | 
+| 7차시 | 2023.11.20 | 분리 집합 | [10775 공항](https://www.acmicpc.net/problem/10775) | [#24](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/24) | 
+| 8차시 | 2023.11.24 | 백트래킹 | [16987 계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [#27](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/27) | 
 ---
