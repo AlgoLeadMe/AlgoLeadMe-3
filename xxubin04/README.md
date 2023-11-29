@@ -11,3 +11,4 @@
 | 7차시 | 2023.11.22 |  스택  | <a href="https://www.acmicpc.net/problem/17952">[17952]과제는 끝나지 않아!</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/23 |
 | 8차시 | 2023.11.24 |  구현  | <a href="https://www.acmicpc.net/problem/2563">[2563]색종이</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/30 |
 | 9차시 | 2023.11.27 |  해시맵  | <a href="https://www.acmicpc.net/problem/1270">[1270]전쟁-땅따먹기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/33 |
+| 10차시 | 2023.11.29 |  큐  | <a href="https://www.acmicpc.net/problem/29813">[29813]최애의 팀원</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/37 |
