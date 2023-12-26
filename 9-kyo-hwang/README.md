@@ -13,4 +13,5 @@
 | 9차시 | 2023.11.26 | Binary Search | [1477 휴게소 세우기](https://www.acmicpc.net/problem/1477) | [#31](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/31) | 
 | 10차시 | 2023.11.28 | String | [20437 문자열 게임 2](https://www.acmicpc.net/problem/20437) | [#35](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/35) | 
 | 11차시 | 2023.12.01 | Simulation | [21610 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | [#40](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/39) | 
+| 12차시 | 2023.12.23 | DFS/BFS | [22352 항체 인식](https://www.acmicpc.net/problem/22352) | [#43](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/43)
 ---
