@@ -2,7 +2,7 @@
 
 | 차시 |    날짜    | 문제유형 | 링크 | 풀이 |
 |:----:|:---------:|:----:|:-----:|:----:|
-| 1차시 | 2023.11.07 | Implementation | [행복은 성적순이 아니잖아요](https://level.goorm.io/exam/147448/%EA%B8%B0%EB%B3%B8-%ED%96%89%EB%B3%B5%EC%9D%80-%EC%84%B1%EC%A0%81%EC%88%9C%EC%9D%B4-%EC%95%84%EB%8B%88%EC%9E%96%EC%95%84%EC%9A%94/quiz/1) | [#1](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/1) |
+| 1차시 | 2023.11.07 | Simulation | [행복은 성적순이 아니잖아요](https://level.goorm.io/exam/147448/%EA%B8%B0%EB%B3%B8-%ED%96%89%EB%B3%B5%EC%9D%80-%EC%84%B1%EC%A0%81%EC%88%9C%EC%9D%B4-%EC%95%84%EB%8B%88%EC%9E%96%EC%95%84%EC%9A%94/quiz/1) | [#1](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/1) |
 | 2차시 | 2023.11.10 | Topological Sorting | [동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260) | [#4](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/4) | 
 | 3차시 | 2023.11.12 | Minimum Spanning Tree(MST) | [16398 행성 연결](https://www.acmicpc.net/problem/16398) | [#7](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/7) | 
 | 4차시 | 2023.11.14 | Trie | [5052 전화번호 목록](https://www.acmicpc.net/problem/5052) | [#11](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/11) | 
@@ -12,4 +12,5 @@
 | 8차시 | 2023.11.24 | Backtracking | [16987 계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [#27](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/27) | 
 | 9차시 | 2023.11.26 | Binary Search | [1477 휴게소 세우기](https://www.acmicpc.net/problem/1477) | [#31](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/31) | 
 | 10차시 | 2023.11.28 | String | [20437 문자열 게임 2](https://www.acmicpc.net/problem/20437) | [#35](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/35) | 
+| 11차시 | 2023.12.01 | Simulation | [21610 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | [#40](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/39) | 
 ---
