@@ -12,4 +12,5 @@
 | 8차시 | 2023.11.22 |   큐   | [2164 카드 2](https://www.acmicpc.net/problem/1193)     | [#29](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/29) |
 | 9차시 | 2023.11.27 |   큐   | [1966 프린터 큐](https://www.acmicpc.net/problem/1966)  | [#32](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/32) |
 | 10차시| 2023.11.29 |  구현  | [7568 덩치](https://www.acmicpc.net/problem/7568)       | [#36](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/36) |
-| 11차시| 2023.11.29 |  수학  | [1735 분수 합](https://www.acmicpc.net/problem/1735)    | [#39](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/39) |
+| 11차시| 2023.12.25 |  수학  | [1735 분수 합](https://www.acmicpc.net/problem/1735)    | [#39](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/39) |
+| 12차시| 2023.12.27 |  스택  | [1406 에디터](https://www.acmicpc.net/problem/1406)    | [#43](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/43) |
