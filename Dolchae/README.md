@@ -14,3 +14,4 @@
 | 10차시| 2023.11.29 |  구현  | [7568 덩치](https://www.acmicpc.net/problem/7568)       | [#36](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/36) |
 | 11차시| 2023.12.25 |  수학  | [1735 분수 합](https://www.acmicpc.net/problem/1735)    | [#39](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/39) |
 | 12차시| 2023.12.27 |  스택  | [1406 에디터](https://www.acmicpc.net/problem/1406)    | [#43](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/43) |
+| 13차시| 2023.12.29 |  구현  | [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) | [#46](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/46) |
