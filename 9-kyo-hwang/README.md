@@ -15,4 +15,5 @@
 | 11차시 | 2023.12.01 | Simulation | [21610 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | [#40](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/39) | 
 | 12차시 | 2023.12.23 | DFS/BFS | [22352 항체 인식](https://www.acmicpc.net/problem/22352) | [#43](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/43)
 | 13차시 | 2023.12.28 | Topological Sorting | [1516 게임 개발](https://www.acmicpc.net/problem/1516) | [#47](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/47)
+| 14차시 | 2024.1.1 | DFS/BFS | [11112 Eight puzzle](https://www.acmicpc.net/problem/11112) | [#51](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/51)
 ---
