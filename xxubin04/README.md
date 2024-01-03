@@ -14,4 +14,5 @@
 | 10차시 | 2023.11.29 |  큐  | <a href="https://www.acmicpc.net/problem/29813">[29813]최애의 팀원</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/37 |
 | 11차시 | 2023.12.25 |  구현  | <a href="https://www.acmicpc.net/problem/11536">[11536]줄 세우기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/41 |
 | 12차시 | 2023.12.27 |  해시맵  | <a href="https://www.acmicpc.net/problem/9375">[9375]패션왕 신해빈</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/44 |
-| 13차시 | 2023.12.29 |  정렬  | <a href="https://www.acmicpc.net/problem/7795">[7795]먹을 것인가 먹힐 것인가</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/46 |
+| 13차시 | 2023.12.29 |  정렬  | <a href="https://www.acmicpc.net/problem/7795">[7795]먹을 것인가 먹힐 것인가</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/47 |
+| 14차시 | 2024.01.03 |  스택  | <a href="https://www.acmicpc.net/problem/2257">[2257]화학식량</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/50 |
