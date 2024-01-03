@@ -6,7 +6,7 @@ size = int(input())
 area = [list(input().strip()) for i in range(size)]
 blind = [['G' if j=='R' else j for j in i] for i in area]
 
-def bfs(x, y, color):
+def dfs(x, y, color):
     area[x][y] = 'X'
     for dx, dy in zip([-1,0,1,0],[0,1,0,-1]):
         nx = x+dx
@@ -15,7 +15,7 @@ def bfs(x, y, color):
             continue
         if not area[nx][ny] == color:
             continue
-        bfs(nx,ny,color)
+        dfs(nx,ny,color)
         
 def findarea():
     cnt = 0
@@ -24,7 +24,7 @@ def findarea():
             if area[i][j] == 'X':
                 continue
             cnt += 1
-            bfs(i,j,area[i][j])
+            dfs(i,j,area[i][j])
     print(cnt, end=" ")
     
 findarea()
