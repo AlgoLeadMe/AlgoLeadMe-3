@@ -16,3 +16,4 @@
 | 12차시 | 2023.12.27 |  해시맵  | <a href="https://www.acmicpc.net/problem/9375">[9375]패션왕 신해빈</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/44 |
 | 13차시 | 2023.12.29 |  정렬  | <a href="https://www.acmicpc.net/problem/7795">[7795]먹을 것인가 먹힐 것인가</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/47 |
 | 14차시 | 2024.01.03 |  스택  | <a href="https://www.acmicpc.net/problem/2257">[2257]화학식량</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/50 |
+| 15차시 | 2024.01.05 |  수학  | <a href="https://www.acmicpc.net/problem/2839">[2839]설탕 배달</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/53 |
