@@ -8,5 +8,6 @@
 | 6차시 | 2023.11.24 | BFS | [7576 토마토](https://www.acmicpc.net/problem/7576) | - |
 | 7차시 | 2023.11.27 | 그리디 | [16953 A → B](https://www.acmicpc.net/problem/16953) | - |
 | 8차시 | 2023.11.29 | DP | [1463 1로 만들기](https://www.acmicpc.net/problem/1463) | - |
-| 9차시 | 2024.01.03 | BFS | [10026 적록색약](https://www.acmicpc.net/problem/10026) | - |
+| 9차시 | 2024.01.03 | DFS | [10026 적록색약](https://www.acmicpc.net/problem/10026) | - |
+| 10차시 | 2024.01.08 | BFS | [2178 미로 탐색](https://www.acmicpc.net/problem/2178) | - |
 ---
