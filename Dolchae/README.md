@@ -17,3 +17,4 @@
 | 13차시| 2023.12.29 |  구현  | [1158 요세푸스 문제](https://www.acmicpc.net/problem/1158) | [#46](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/46) |
 | 14차시| 2024.01.03 |  구현  | [1138 한 줄로 서기](https://www.acmicpc.net/problem/1138) | [#49](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/49) |
 | 15차시| 2024.01.05 |  정렬 | [3273 두 수의 합](https://www.acmicpc.net/problem/3273) | [#54](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/54) |
+| 16차시| 2024.01.08 |  구현 | [1244 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | [#56](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/56) |
