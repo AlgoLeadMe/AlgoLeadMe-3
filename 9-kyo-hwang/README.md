@@ -17,4 +17,6 @@
 | 14차시 | 2024.1.1   | DFS/BFS                    | [11112 Eight puzzle](https://www.acmicpc.net/problem/11112)                                                                                                                                   | [#48](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/48) |
 | 15차시 | 2024.1.5   | Disjoint Set               | [1043 거짓말](https://acmicpc.net/problem/1043)                                                                                                                                                  | [#52](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/52) |
 | 16차시 | 2024.1.6   | DFS/BFS                    | [3197 백조의 호수](https://acmicpc.net/problem/3197)                                                                                                                                               | [#57](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/57) |
-=======
+| 17차시 | 2024.1.11  | DFS/BFS                    | [1167 트리의 지름](https://acmicpc.net/problem/1167)                                                                                                                                               | [#62](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/62) |
+
+===
