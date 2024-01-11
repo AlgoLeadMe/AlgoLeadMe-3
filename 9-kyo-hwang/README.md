@@ -18,5 +18,5 @@
 | 15차시 | 2024.1.5   | Disjoint Set               | [1043 거짓말](https://acmicpc.net/problem/1043)                                                                                                                                                  | [#52](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/52) |
 | 16차시 | 2024.1.6   | DFS/BFS                    | [3197 백조의 호수](https://acmicpc.net/problem/3197)                                                                                                                                               | [#57](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/57) |
 | 17차시 | 2024.1.11  | DFS/BFS                    | [1167 트리의 지름](https://acmicpc.net/problem/1167)                                                                                                                                               | [#62](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/62) |
-
+| 18차시 | 2024.1.11  | Dynamic Programming        | [2096 내려가기](https://acmicpc.net/problem/2096)                                                                                                                                               | [#63](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/63) |
 ===
