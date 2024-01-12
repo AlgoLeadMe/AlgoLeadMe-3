@@ -19,3 +19,4 @@
 | 15차시 | 2024.01.05 |  수학  | <a href="https://www.acmicpc.net/problem/2839">[2839]설탕 배달</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/53 |
 | 16차시 | 2024.01.08 |  DFS  | <a href="https://www.acmicpc.net/problem/1743">[1743]음식물 피하기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/55 |
 | 17차시 | 2024.01.10 |  DFS  | <a href="https://www.acmicpc.net/problem/18126">[18126]너구리 구구</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/60 |
+| 18차시 | 2024.01.12 |  Heap  | <a href="https://www.acmicpc.net/problem/17503">[17503]맥주 축제</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/65 |
