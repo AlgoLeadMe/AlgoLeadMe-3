@@ -11,4 +11,5 @@
 | 9차시 | 2024.01.03 | DFS | [10026 적록색약](https://www.acmicpc.net/problem/10026) | - |
 | 10차시 | 2024.01.08 | BFS | [2178 미로 탐색](https://www.acmicpc.net/problem/2178) | - |
 | 11차시 | 2024.01.10 | DP | [1149 RGB거리](https://www.acmicpc.net/problem/1149) | - |
+| 12차시 | 2024.01.12 | DP | [17485 진우의 달 여행 (Large)](https://www.acmicpc.net/problem/17485) | - |
 ---
