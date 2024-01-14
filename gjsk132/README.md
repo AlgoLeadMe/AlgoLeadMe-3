@@ -12,4 +12,5 @@
 | 10차시 | 2024.01.08 | BFS | [2178 미로 탐색](https://www.acmicpc.net/problem/2178) | - |
 | 11차시 | 2024.01.10 | DP | [1149 RGB거리](https://www.acmicpc.net/problem/1149) | - |
 | 12차시 | 2024.01.12 | DP | [17485 진우의 달 여행 (Large)](https://www.acmicpc.net/problem/17485) | - |
+| 13차시 | 2024.01.15 | 그리디 | [1931 회의실 배정](https://www.acmicpc.net/problem/1931) | - |
 ---
