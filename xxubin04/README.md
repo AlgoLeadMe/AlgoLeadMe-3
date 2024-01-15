@@ -20,3 +20,4 @@
 | 16차시 | 2024.01.08 |  DFS  | <a href="https://www.acmicpc.net/problem/1743">[1743]음식물 피하기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/55 |
 | 17차시 | 2024.01.10 |  DFS  | <a href="https://www.acmicpc.net/problem/18126">[18126]너구리 구구</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/60 |
 | 18차시 | 2024.01.12 |  Heap  | <a href="https://www.acmicpc.net/problem/17503">[17503]맥주 축제</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/65 |
+| 19차시 | 2024.01.15 |  스택  | <a href="https://www.acmicpc.net/problem/4949">[4949]균형잡힌 세상</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/70 |
