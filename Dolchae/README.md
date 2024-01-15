@@ -20,3 +20,4 @@
 | 16차시| 2024.01.08 |  구현 | [1244 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | [#56](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/56) |
 | 17차시| 2024.01.10 |  DFS&BFS | [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260) | [#59](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/59) |
 | 18차시| 2024.01.12 | 수학 | [2331 반복수열](https://www.acmicpc.net/problem/2331) | [#64](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/64) |
+| 19차시| 2024.01.15 | DFS&BFS  | [1389 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [#68](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/68) |
