@@ -3,12 +3,11 @@ import heapq
 input = open(0).readline
 
 def dijkstra(size):
-    end = False
     hq = []
     heapq.heappush(hq, (cave[0][0],0,0))
     cave[0][0] = -1
     
-    while hq and not end:
+    while hq:
         cost, x, y = heapq.heappop(hq)
         for dx, dy in [(-1,0),(0,1),(1,0),(0,-1)]:
             nx = x+dx
