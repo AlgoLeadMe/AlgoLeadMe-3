@@ -21,3 +21,4 @@
 | 17차시| 2024.01.10 |  DFS&BFS | [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260) | [#59](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/59) |
 | 18차시| 2024.01.12 | 수학 | [2331 반복수열](https://www.acmicpc.net/problem/2331) | [#64](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/64) |
 | 19차시| 2024.01.15 | DFS&BFS  | [1389 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [#68](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/68) |
+| 20차시| 2024.01.17 | DFS&BFS  | [1926 그림](https://www.acmicpc.net/problem/1926) | [#68](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/73) |
