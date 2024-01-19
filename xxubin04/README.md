@@ -22,3 +22,4 @@
 | 18차시 | 2024.01.12 |  Heap  | <a href="https://www.acmicpc.net/problem/17503">[17503]맥주 축제</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/65 |
 | 19차시 | 2024.01.15 |  스택  | <a href="https://www.acmicpc.net/problem/4949">[4949]균형잡힌 세상</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/70 |
 | 20차시 | 2024.01.17 |  DP  | <a href="https://www.acmicpc.net/problem/14430">[14430]자원 캐기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/71 |
+| 21차시 | 2024.01.17 |  에라토스테네스의 체  | <a href="https://www.acmicpc.net/problem/6588">[6588]골드바흐의 추측</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/76 |
