@@ -24,3 +24,4 @@
 | 20차시 | 2024.01.17 |  DP  | <a href="https://www.acmicpc.net/problem/14430">[14430]자원 캐기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/71 |
 | 21차시 | 2024.01.19 |  에라토스테네스의 체  | <a href="https://www.acmicpc.net/problem/6588">[6588]골드바흐의 추측</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/76 |
 | 22차시 | 2024.01.22 |  에라토스테네스의 체  | <a href="https://www.acmicpc.net/problem/1124">[1124]언더프라임</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/81 |
+| 23차시 | 2024.01.25 |  그리디  | <a href="https://www.acmicpc.net/problem/2872">[2872]우리집엔 도서관이 있어</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/85 |
