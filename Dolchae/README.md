@@ -23,3 +23,4 @@
 | 19차시| 2024.01.15 | DFS&BFS  | [1389 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [#68](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/68) |
 | 20차시| 2024.01.17 | DFS&BFS  | [1926 그림](https://www.acmicpc.net/problem/1926) | [#73](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/73) |
 | 21차시| 2024.01.19 | DFS&BFS  | [2667 단지이름붙이기](https://www.acmicpc.net/problem/2667) | [#77](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/77) |
+| 22차시| 2024.01.22 | 그리디  | [9237 이장님 초대](https://www.acmicpc.net/problem/9237) | [#80](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/80) |
