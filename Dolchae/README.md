@@ -24,3 +24,4 @@
 | 20차시| 2024.01.17 | DFS&BFS  | [1926 그림](https://www.acmicpc.net/problem/1926) | [#73](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/73) |
 | 21차시| 2024.01.19 | DFS&BFS  | [2667 단지이름붙이기](https://www.acmicpc.net/problem/2667) | [#77](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/77) |
 | 22차시| 2024.01.22 | 그리디  | [9237 이장님 초대](https://www.acmicpc.net/problem/9237) | [#80](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/80) |
+| 23차시| 2024.01.25 | DP  | [11060 점프 점프](https://www.acmicpc.net/problem/11060) | [#84](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/84) |
