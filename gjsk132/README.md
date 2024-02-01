@@ -17,5 +17,5 @@
 | 15차시 | 2024.01.21 | DP | [2156 포도주 시식](https://www.acmicpc.net/problem/2156) | [🍷](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/78) |
 | 16차시 | 2024.01.22 | Prefix Sum | [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [➕](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/82) |
 | 17차시 | 2024.01.29 | Stack | [1698 옥상 정원 꾸미기](https://www.acmicpc.net/problem/1698) | [🌳](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/88) |
-| 18차시 | 2024.02.01 | Implemetation | [12904 A와 B 꾸미기](https://www.acmicpc.net/problem/12094) | [🅰🅱](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/89) |
+| 18차시 | 2024.02.01 | Implemetation | [12904 A와 B 꾸미기](https://www.acmicpc.net/problem/12094) | [🅰🅱](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/90) |
 ---
