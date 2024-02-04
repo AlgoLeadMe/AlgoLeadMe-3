@@ -14,6 +14,9 @@
 | 12차시 | 2024.01.12 | DP | [17485 진우의 달 여행 (Large)](https://www.acmicpc.net/problem/17485) | [🌕🚀](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/66) |
 | 13차시 | 2024.01.15 | Greedy | [1931 회의실 배정](https://www.acmicpc.net/problem/1931) | [🏢](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/67) |
 | 14차시 | 2024.01.17 | Dijkstra | [4485 녹색 옷을 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | [❎](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/72) |
-| 15차시 | 2024.01.21 | DP | [2156 포도주 시식](https://www.acmicpc.net/problem/2156) | [❎](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/78) |
+| 15차시 | 2024.01.21 | DP | [2156 포도주 시식](https://www.acmicpc.net/problem/2156) | [🍷](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/78) |
 | 16차시 | 2024.01.22 | Prefix Sum | [11660 구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [➕](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/82) |
+| 17차시 | 2024.01.29 | Stack | [1698 옥상 정원 꾸미기](https://www.acmicpc.net/problem/1698) | [🌳](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/88) |
+| 18차시 | 2024.02.01 | Implemetation | [12904 A와 B 꾸미기](https://www.acmicpc.net/problem/12094) | [🅰🅱](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/90) |
 ---
+
