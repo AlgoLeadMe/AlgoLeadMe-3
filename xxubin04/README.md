@@ -27,3 +27,4 @@
 | 23차시 | 2024.01.25 |  그리디  | <a href="https://www.acmicpc.net/problem/2872">[2872]우리집엔 도서관이 있어</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/85 |
 | 24차시 | 2024.01.29 |  DP  | <a href="https://www.acmicpc.net/problem/1495">[1495]기타리스트</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/86 |
 | 25차시 | 2024.02.01 |  구현  | <a href="https://leetcode.com/problems/roman-to-integer/">[13]Roman to Integer</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/91 |
+| 26차시 | 2024.02.05 |  에라토스테네스의 체  | <a href="https://www.acmicpc.net/problem/4948">[4948]베르트랑 공준</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/94 |
