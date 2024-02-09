@@ -24,3 +24,4 @@
 | 21차시 | 2024.1.18  | Graph Traversal            | [16947 서울 지하철 2호선](https://www.acmicpc.net/problem/16947)  | [#75](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/75) |
 | 22차시 | 2024.1.21  | Two Pointers               | [1981 배열에서 이동](https://www.acmicpc.net/problem/1981)        | [#79](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/79) |
 | 23차시 | 2024.1.24  | Disjoint Set               | [표 병함](https://school.programmers.co.kr/learn/courses/30/lessons/150366)        | [#81](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/81) |
+| 24차시 | 2024.1.28  | Tree                       | [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)        | [#92](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/92) |
