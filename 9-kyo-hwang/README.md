@@ -26,3 +26,4 @@
 | 23차시 | 2024.1.24  | Disjoint Set               | [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)        | [#81](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/81) |
 | 24차시 | 2024.1.28  | Tree                       | [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)        | [#92](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/92) |
 | 25차시 | 2024.2.8   | Brute Force                | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)        | [#99](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/99) |
+| 26차시 | 2024.2.11  | Brute Force                | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)        | [#104](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/104) |
