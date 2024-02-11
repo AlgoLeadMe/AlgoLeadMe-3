@@ -9,11 +9,7 @@ def coin_kind():
     
     for coin in coins:
         for pos in range(1, target+1):
-            if coin == pos:
-                money[pos] += 1
-                continue
-            
-            money[pos] += money[pos-coin] if pos > coin else 0
+            money[pos] += 1 if coin == pos else money[pos-coin] if pos > coin else 0
             
     return money[-1]
 
