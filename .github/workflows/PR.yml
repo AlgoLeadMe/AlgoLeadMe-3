@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: Munbin-Lee/PR-to-Discord@main
         with:
-          discord_webhook_url: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          discord_webhook_url: ${{ secrets.TEST }}
