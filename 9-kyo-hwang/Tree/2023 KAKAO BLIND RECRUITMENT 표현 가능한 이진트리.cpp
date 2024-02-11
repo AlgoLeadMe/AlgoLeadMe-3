@@ -1,6 +1,6 @@
-#include <bitset>
 #include <string>
 #include <vector>
+#include <bitset>
 
 using namespace std;
 
