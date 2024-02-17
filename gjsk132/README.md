@@ -20,6 +20,5 @@
 | 18차시 | 2024.02.01 | Implemetation | [12904 A와 B](https://www.acmicpc.net/problem/12094) | [🅰🅱](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/90) |
 | 19차시 | 2024.02.05 | BFS | [1697 숨바꼭질](https://www.acmicpc.net/problem/1697) | [🫣](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/95) |
 | 20차시 | 2024.02.09 | Knapsack Problem | [12865 평범한 배낭](https://www.acmicpc.net/problem/12865) | [🎒](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/100) |
+| 21차시 | 2024.02.11 | DP | [3067 Coins](https://www.acmicpc.net/problem/3067) | [🪙](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/102) |
 | 22차시 | 2024.02.15 | Brute Froce | [1107 리모컨](https://www.acmicpc.net/problem/1107) | [📲](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/106) |
----
-
