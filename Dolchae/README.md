@@ -29,4 +29,5 @@
 | 25차시| 2024.02.01 | DP  | [1535 안녕](https://www.acmicpc.net/problem/1535) | [#89](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/89) |
 | 26차시| 2024.02.05 | 구현  | [18110 solved.ac](https://www.acmicpc.net/problem/18110) | [#93](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/93) |
 | 27차시| 2024.02.08 | 정렬  | [1302 베스트셀러](https://www.acmicpc.net/problem/1302) | [#97](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/97) |
-| 27차시| 2024.02.15 | 이진 탐색  | [6236 용돈 관리](https://www.acmicpc.net/problem/1302) | [#107](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/107) |
+| 28차시| 2024.02.15 | 이진 탐색  | [6236 용돈 관리](https://www.acmicpc.net/problem/1302) | [#107](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/107) |
+| 29차시| 2024.02.15 | 브루트포스  | [2961 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) | [#108](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/108) |
