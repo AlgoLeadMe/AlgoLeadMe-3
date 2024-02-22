@@ -27,3 +27,5 @@
 | 24차시 | 2024.1.28  | Tree                       | [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)        | [#92](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/92) |
 | 25차시 | 2024.2.8   | Brute Force                | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)        | [#99](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/99) |
 | 26차시 | 2024.2.11  | Brute Force                | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)        | [#104](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/104) |
+| 27차시 | 2024.2.14  | Graph Traversal            | [1039 교환](https://www.acmicpc.net/problem/1039)        | [#105](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/105) |
+| 28차시 | 2024.2.19  | Simulation                 | [SWEA 5644 무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE&problemTitle=5644&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)        | [#111](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/111) |
