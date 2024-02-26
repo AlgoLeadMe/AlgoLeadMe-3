@@ -32,3 +32,4 @@
 | 28차시 | 2024.02.15 |  이진탐색  | <a href="https://www.acmicpc.net/problem/2805">[2805]나무 자르기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/108 |
 | 29차시 | 2024.02.19 |  DP  | <a href="https://www.acmicpc.net/problem/2502">[2502]떡 먹는 호랑이</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/110 |
 | 30차시 | 2024.02.22 |  BFS  | <a href="https://www.acmicpc.net/problem/14562">[14562]태권왕</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/113 |
+| 31차시 | 2024.02.26 |  Greedy  | <a href="https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150">[134]Gas Station</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/116 |
