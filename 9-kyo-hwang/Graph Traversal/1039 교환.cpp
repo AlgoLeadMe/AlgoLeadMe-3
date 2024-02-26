@@ -32,7 +32,7 @@ int DFS(string Num = N, int Depth = 0)
                 }
                 string TmpNum = Num;
                 swap(TmpNum[i], TmpNum[j]);
-
+                
                 MaxNum = max(MaxNum, DFS(TmpNum, Depth + 1));
             }
         }
