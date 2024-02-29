@@ -1,0 +1,20 @@
+name: Assign Reviewer By Label
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+      - labeled
+      - unlabeled
+jobs:
+  assign-reviewer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Waiting Review
+        uses: wow-actions/auto-assign@v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          reviewers: 9kyo-hwang, gjsk132, Dolchae, xxubin04
+          assignees: ${{ github.event.pull_request.user.login }}
+          includeLabels: 리뷰 기다리는 중 🔥
+          excludeLabels: 작성 중 ⏱️
