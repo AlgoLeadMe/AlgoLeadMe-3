@@ -31,4 +31,5 @@
 | 27차시| 2024.02.08 | 정렬  | [1302 베스트셀러](https://www.acmicpc.net/problem/1302) | [#97](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/97) |
 | 28차시| 2024.02.15 | 이진 탐색  | [6236 용돈 관리](https://www.acmicpc.net/problem/1302) | [#107](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/107) |
 | 29차시| 2024.02.19 | 브루트포스  | [2961 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) | [#109](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/109) |
-| 30차시| 2024.02.22 | DFS  | [2644 촌수계산](https://www.acmicpc.net/problem/2961) | [#112](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/112) |
+| 30차시| 2024.02.22 | DFS  | [2644 촌수계산](https://www.acmicpc.net/problem/2644) | [#112](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/112) |
+| 31차시| 2024.02.27 | 구현  | [13414 수강신청](https://www.acmicpc.net/problem/13414) | [#117](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/117) |
