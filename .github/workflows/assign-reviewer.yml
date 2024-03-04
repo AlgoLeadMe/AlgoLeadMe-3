@@ -1,6 +1,6 @@
 name: Assign Reviewer By Label
 on:
-  pull_request:
+  pull_request_target:
     types:
       - opened
       - edited
