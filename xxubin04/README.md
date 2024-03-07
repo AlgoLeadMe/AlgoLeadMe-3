@@ -34,3 +34,5 @@
 | 30차시 | 2024.02.22 |  BFS  | <a href="https://www.acmicpc.net/problem/14562">[14562]태권왕</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/113 |
 | 31차시 | 2024.02.26 |  Greedy  | <a href="https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150">[134]Gas Station</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/116 |
 | 32차시 | 2024.02.29 |  Math  | <a href="https://leetcode.com/problems/factorial-trailing-zeroes/">[172]Factorial Trailing Zeroes</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/121 |
+| 33차시 | 2024.03.04 |  Hash  | <a href="https://www.acmicpc.net/problem/11101">[11101]꿍의 여친 만들기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/125 |
+| 34차시 | 2024.03.07 |  Greedy  | <a href="https://www.acmicpc.net/problem/27972">[27972]악보는 거들 뿐</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/127 |
