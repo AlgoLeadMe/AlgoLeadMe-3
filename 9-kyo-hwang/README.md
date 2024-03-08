@@ -32,3 +32,4 @@
 | 29차시 | 2024.2.22  | Prefix Sum                 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)        | [#114](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/114) |
 | 30차시 | 2024.2.24  | Greddy                     | [23296 엘리베이터 조작](https://www.acmicpc.net/problem/23296)        | [#115](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/115) |
 | 31차시 | 2024.2.29  | Greddy                     | [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)        | [#120](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/120) |
+| 32차시 | 2024.3.03  | Shortest Path              | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)        | [#123](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/123) |
