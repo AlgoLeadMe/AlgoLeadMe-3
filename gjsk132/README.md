@@ -23,4 +23,5 @@
 | 21차시 | 2024.02.11 | DP | [3067 Coins](https://www.acmicpc.net/problem/3067) | [🪙](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/102) |
 | 22차시 | 2024.02.15 | Brute Froce | [1107 리모컨](https://www.acmicpc.net/problem/1107) | [📲](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/106) |
 | 23차시 | 2024.02.27 | Sort | [18870 좌표 압축](https://www.acmicpc.net/problem/18870) | [📌](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/117) |
+| 24차시 | 2024.03.03 | Greedy | [15903 카드 합체 놀이](https://www.acmicpc.net/problem/159030]) | [🃏](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/122) |
 | 25차시 | 2024.03.05 | Perfix Sum | [21758 꿀 따기](https://www.acmicpc.net/problem/21758) | [🍯](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/126) |
