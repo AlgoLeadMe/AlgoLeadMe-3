@@ -6,9 +6,9 @@ using namespace std;
 int main()
 {
     cin.tie(nullptr)->sync_with_stdio(false);
-
+    
     int N; cin >> N;
-
+    
     vector<int> A(N + 1, 0), NumToComeHere(N + 1, 0);
     vector<bool> IsOutOfHere(N + 1, false);
 
