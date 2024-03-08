@@ -22,3 +22,5 @@
 | 20차시 | 2024.02.09 | Knapsack Problem | [12865 평범한 배낭](https://www.acmicpc.net/problem/12865) | [🎒](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/100) |
 | 21차시 | 2024.02.11 | DP | [3067 Coins](https://www.acmicpc.net/problem/3067) | [🪙](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/102) |
 | 22차시 | 2024.02.15 | Brute Froce | [1107 리모컨](https://www.acmicpc.net/problem/1107) | [📲](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/106) |
+| 23차시 | 2024.02.27 | Sort | [18870 좌표 압축](https://www.acmicpc.net/problem/18870) | [📌](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/117) |
+| 25차시 | 2024.03.05 | Perfix Sum | [21758 꿀 따기](https://www.acmicpc.net/problem/21758) | [🍯](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/126) |

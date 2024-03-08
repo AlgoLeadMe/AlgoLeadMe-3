@@ -6,18 +6,18 @@ using namespace std;
 int main()
 {
     cin.tie(nullptr)->sync_with_stdio(false);
-
+    
     int N; cin >> N;
-
+    
     vector<int> A(N + 1, 0), NumToComeHere(N + 1, 0);
     vector<bool> IsOutOfHere(N + 1, false);
-
+    
     for(int i = 1; i <= N; ++i)
     {
         cin >> A[i];
         NumToComeHere[A[i]] += 1;
     }
-
+  
     vector<int> BtnsToPress;
     auto Move = [&](int Floor = 1)
     {
@@ -36,7 +36,7 @@ int main()
     };
 
     Move();
-
+    
     for(int Floor = 1; Floor <= N; ++Floor)
     {
         if(IsOutOfHere[Floor])
