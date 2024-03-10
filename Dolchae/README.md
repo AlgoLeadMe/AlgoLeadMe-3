@@ -33,4 +33,6 @@
 | 29차시| 2024.02.19 | 브루트포스  | [2961 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) | [#109](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/109) |
 | 30차시| 2024.02.22 | DFS  | [2644 촌수계산](https://www.acmicpc.net/problem/2644) | [#112](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/112) |
 | 31차시| 2024.02.27 | 구현  | [13414 수강신청](https://www.acmicpc.net/problem/13414) | [#117](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/117) |
-| 32차시| 2024.02.29 | 그리디  | [2012 등수 매기기](https://www.acmicpc.net/problem/13414) | [#119](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/119) |
+| 32차시| 2024.02.29 | 그리디  | [2012 등수 매기기](https://www.acmicpc.net/problem/2012) | [#119](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/119) |
+| 33차시| 2024.03.04 | 정렬  | [1431 시리얼 번호](https://www.acmicpc.net/problem/1431) | [#124](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/124) |
+| 34차시| 2024.03.07 | 수학  | [1641 영식이의 손가락](https://www.acmicpc.net/problem/1641) | [#127](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/127) |

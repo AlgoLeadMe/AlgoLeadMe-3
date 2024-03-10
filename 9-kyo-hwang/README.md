@@ -31,3 +31,5 @@
 | 28차시 | 2024.2.19  | Simulation                 | [SWEA 5644 무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo&categoryId=AWXRDL1aeugDFAUo&categoryType=CODE&problemTitle=5644&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)        | [#111](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/111) |
 | 29차시 | 2024.2.22  | Prefix Sum                 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)        | [#114](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/114) |
 | 30차시 | 2024.2.24  | Greddy                     | [23296 엘리베이터 조작](https://www.acmicpc.net/problem/23296)        | [#115](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/115) |
+| 31차시 | 2024.2.29  | Greddy                     | [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)        | [#120](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/120) |
+| 32차시 | 2024.3.03  | Shortest Path              | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)        | [#123](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/123) |

@@ -11,13 +11,13 @@ int main()
     
     vector<int> A(N + 1, 0), NumToComeHere(N + 1, 0);
     vector<bool> IsOutOfHere(N + 1, false);
-    
+
     for(int i = 1; i <= N; ++i)
     {
         cin >> A[i];
         NumToComeHere[A[i]] += 1;
     }
-    
+
     vector<int> BtnsToPress;
     auto Move = [&](int Floor = 1)
     {
@@ -25,7 +25,7 @@ int main()
         {
             IsOutOfHere[Floor] = true;
             int NextFloor = A[Floor];
-            
+
             if(NumToComeHere[NextFloor] > 0)
             {
                 NumToComeHere[NextFloor] -= 1;
@@ -34,34 +34,34 @@ int main()
             }
         }
     };
-    
+
     Move();
-    
+
     for(int Floor = 1; Floor <= N; ++Floor)
     {
         if(IsOutOfHere[Floor])
         {
             continue;
         }
-        
+
         if(NumToComeHere[Floor] == 0)
         {
             BtnsToPress.emplace_back(Floor);
             Move(Floor);
         }
     }
-    
+
     for(int Floor = 1; Floor <= N; ++Floor)
     {
         if(IsOutOfHere[Floor])
         {
             continue;
         }
-        
+
         BtnsToPress.emplace_back(Floor);
         Move(Floor);
     }
-    
+
     cout << BtnsToPress.size() << "\n";
     for(const int& Btn : BtnsToPress)
     {
