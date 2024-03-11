@@ -36,3 +36,4 @@
 | 32차시| 2024.02.29 | 그리디  | [2012 등수 매기기](https://www.acmicpc.net/problem/2012) | [#119](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/119) |
 | 33차시| 2024.03.04 | 정렬  | [1431 시리얼 번호](https://www.acmicpc.net/problem/1431) | [#124](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/124) |
 | 34차시| 2024.03.07 | 수학  | [1641 영식이의 손가락](https://www.acmicpc.net/problem/1641) | [#127](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/127) |
+| 35차시| 2024.03.11 |  브루트포스 | [1182 부분수열의 합](https://www.acmicpc.net/problem/1182) | [#132](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/132) |
