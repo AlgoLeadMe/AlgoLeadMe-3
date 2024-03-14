@@ -37,3 +37,4 @@
 | 33차시 | 2024.03.04 |  Hash  | <a href="https://www.acmicpc.net/problem/11101">[11101]꿍의 여친 만들기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/125 |
 | 34차시 | 2024.03.07 |  Greedy  | <a href="https://www.acmicpc.net/problem/27972">[27972]악보는 거들 뿐</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/128 |
 | 35차시 | 2024.03.11 |  Heap  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42626">[Heap]더 맵게</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/131 |
+| 36차시 | 2024.03.14 |  Heap  | <a href="https://www.acmicpc.net/problem/1715">[1715]카드 정렬하기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/135 |
