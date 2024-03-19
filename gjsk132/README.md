@@ -26,3 +26,4 @@
 | 24차시 | 2024.03.03 | Greedy | [15903 카드 합체 놀이](https://www.acmicpc.net/problem/159030]) | [🃏](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/122) |
 | 25차시 | 2024.03.05 | Perfix Sum | [21758 꿀 따기](https://www.acmicpc.net/problem/21758) | [🍯](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/126) |
 | 26차시 | 2024.03.09 | Greedy | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927#) | [🍯](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/130) |
+| 28차시 | 2024.03.19 | Backtracking | [애너그램](https://www.acmicpc.net/problem/6443) | [📔](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/139) |
