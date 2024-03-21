@@ -35,6 +35,8 @@
 | 31차시 | 2024.02.26 |  Greedy  | <a href="https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150">[134]Gas Station</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/116 |
 | 32차시 | 2024.02.29 |  Math  | <a href="https://leetcode.com/problems/factorial-trailing-zeroes/">[172]Factorial Trailing Zeroes</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/121 |
 | 33차시 | 2024.03.04 |  Hash  | <a href="https://www.acmicpc.net/problem/11101">[11101]꿍의 여친 만들기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/125 |
-| 34차시 | 2024.03.07 |  Greedy  | <a href="https://www.acmicpc.net/problem/27972">[27972]악보는 거들 뿐</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/128 |
-| 35차시 | 2024.03.11 |  Heap  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42626">[Heap]더 맵게</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/131 |
+| 34차시 | 2024.03.07 |  Greedy  | <a href="https://www.acmicpc.net/problem/27972">[27972]악보는 거들 뿐</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/127 |
+| 35차시 | 2024.03.11 |  Heap  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42626">[프로그래머스]더 맵게</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/131 |
 | 36차시 | 2024.03.14 |  Heap  | <a href="https://www.acmicpc.net/problem/1715">[1715]카드 정렬하기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/135 |
+| 37차시 | 2024.03.19 |  Array  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=python3">[프로그래머스]가장 큰 수</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/140 |
+| 38차시 | 2024.03.21 |  DP  | <a href="https://www.acmicpc.net/problem/11568">[11568]민균이의 계략</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/143 |
