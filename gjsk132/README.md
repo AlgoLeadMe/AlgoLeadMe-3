@@ -27,3 +27,4 @@
 | 25차시 | 2024.03.05 | Perfix Sum | [21758 꿀 따기](https://www.acmicpc.net/problem/21758) | [🍯](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/126) |
 | 26차시 | 2024.03.09 | Greedy | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927#) | [🌃](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/130) |
 | 27차시 | 2024.03.12 | Greedy | [1911 흙길 보수하기](https://www.acmicpc.net/problem/1911) | [🔨](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/134) |
+| 29차시 | 2024.03.22 | Divide and Conquer | [2630 색종이 만들기](https://www.acmicpc.net/problem/2630) | [🟦⬜](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/144) |
