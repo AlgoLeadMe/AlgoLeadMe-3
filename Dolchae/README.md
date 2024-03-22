@@ -39,3 +39,4 @@
 | 35차시| 2024.03.11 |  브루트포스 | [1182 부분수열의 합](https://www.acmicpc.net/problem/1182) | [#132](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/132) |
 | 36차시| 2024.03.14 |  DFS&BFS | [2606 바이러스](https://www.acmicpc.net/problem/2606) | [#136](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/136) |
 | 37차시| 2024.03.19 |  수학 | [11653 소인수분해](https://www.acmicpc.net/problem/11653) | [#141](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/141) |
+| 38차시| 2024.03.22 |  힙 | [1927 최소 힙](https://www.acmicpc.net/problem/1927) | [#145](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/145) |
