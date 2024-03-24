@@ -37,3 +37,5 @@
 | 33차시| 2024.03.04 | 정렬  | [1431 시리얼 번호](https://www.acmicpc.net/problem/1431) | [#124](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/124) |
 | 34차시| 2024.03.07 | 수학  | [1641 영식이의 손가락](https://www.acmicpc.net/problem/1641) | [#127](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/127) |
 | 35차시| 2024.03.11 |  브루트포스 | [1182 부분수열의 합](https://www.acmicpc.net/problem/1182) | [#132](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/132) |
+| 36차시| 2024.03.14 |  DFS&BFS | [2606 바이러스](https://www.acmicpc.net/problem/2606) | [#136](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/136) |
+| 37차시| 2024.03.19 |  수학 | [11653 소인수분해](https://www.acmicpc.net/problem/11653) | [#141](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/141) |
