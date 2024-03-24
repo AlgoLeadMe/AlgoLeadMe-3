@@ -35,3 +35,5 @@
 | 32차시 | 2024.3.03  | Shortest Path              | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)        | [#123](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/123) |
 | 33차시 | 2024.3.08  | Graph Traversal            | [1520 내리막길](https://www.acmicpc.net/problem/1520)        | [#129](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/129) |
 | 34차시 | 2024.3.10  | Dynamic Programming        | [1344 축구](https://www.acmicpc.net/problem/1344)        | [#133](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/133) |
+| 35차시 | 2024.3.14  | Shortest Path              | [1738 골목길](https://www.acmicpc.net/problem/1738)        | [#137](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/137) |
+| 36차시 | 2024.3.18  | Brute Force                | [상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)        | [#138](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/138) |
