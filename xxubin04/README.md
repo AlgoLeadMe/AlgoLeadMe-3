@@ -39,3 +39,5 @@
 | 35차시 | 2024.03.11 |  Heap  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42626">[프로그래머스]더 맵게</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/131 |
 | 36차시 | 2024.03.14 |  Heap  | <a href="https://www.acmicpc.net/problem/1715">[1715]카드 정렬하기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/135 |
 | 37차시 | 2024.03.19 |  Array  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=python3">[프로그래머스]가장 큰 수</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/140 |
+| 38차시 | 2024.03.21 |  DP  | <a href="https://www.acmicpc.net/problem/11568">[11568]민균이의 계략</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/143 |
+| 39차시 | 2024.03.25 |  Heap  | <a href="https://www.acmicpc.net/problem/1374">[1374]강의실</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/147 |
