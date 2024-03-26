@@ -25,5 +25,7 @@
 | 23차시 | 2024.02.27 | Sort | [18870 좌표 압축](https://www.acmicpc.net/problem/18870) | [📌](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/117) |
 | 24차시 | 2024.03.03 | Greedy | [15903 카드 합체 놀이](https://www.acmicpc.net/problem/159030]) | [🃏](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/122) |
 | 25차시 | 2024.03.05 | Perfix Sum | [21758 꿀 따기](https://www.acmicpc.net/problem/21758) | [🍯](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/126) |
-| 26차시 | 2024.03.09 | Greedy | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927#) | [🌃](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/130) |
+| 26차시 | 2024.03.09 | Greedy | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927#) | [🍯](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/130) |
 | 27차시 | 2024.03.12 | Greedy | [1911 흙길 보수하기](https://www.acmicpc.net/problem/1911) | [🔨](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/134) |
+| 28차시 | 2024.03.19 | Backtracking | [애너그램](https://www.acmicpc.net/problem/6443) | [📔](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/139) |
+| 29차시 | 2024.03.22 | Divide and Conquer | [2630 색종이 만들기](https://www.acmicpc.net/problem/2630) | [🟦⬜](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/144) |
