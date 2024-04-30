@@ -40,3 +40,4 @@
 | 37차시 | 2024.3.21  | Greddy                     | [2212 센서](https://www.acmicpc.net/problem/2212)        | [#142](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/142) |
 | 38차시 | 2024.3.24  | Greddy                     | [8980 택배](https://www.acmicpc.net/problem/8980)        | [#147](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/147) |
 | 39차시 | 2024.3.27  | Divide and Conquer         | [18291 비요뜨의 징검다리 건너기](https://www.acmicpc.net/problem/18291)        | [#150](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/150) |
+| 40차시 | 2024.4.2   | Dynamic Programming        | [7579 앱](https://www.acmicpc.net/problem/7579)        | [#153](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/153) |
