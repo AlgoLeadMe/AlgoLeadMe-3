@@ -43,3 +43,4 @@
 | 39차시 | 2024.03.25 |  Heap  | <a href="https://www.acmicpc.net/problem/1374">[1374]강의실</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/147 |
 | 40차시 | 2024.04.01 |  Binary Search  | <a href="https://www.acmicpc.net/problem/4454">[4454]상근이의 여자친구</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/152 |
 | 41차시 | 2024.04.08 |  Math  | <a href="https://www.acmicpc.net/problem/1484">[1484]다이어트</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/157 |
+| 42차시 | 2024.04.29 |  구현  | <a href="https://leetcode.com/problems/plus-one">[66]Plus One</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/158 |
