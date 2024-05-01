@@ -29,4 +29,6 @@
 | 27차시 | 2024.03.12 | Greedy | [1911 흙길 보수하기](https://www.acmicpc.net/problem/1911) | [🔨](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/134) |
 | 28차시 | 2024.03.19 | Backtracking | [애너그램](https://www.acmicpc.net/problem/6443) | [📔](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/139) |
 | 29차시 | 2024.03.22 | Divide and Conquer | [2630 색종이 만들기](https://www.acmicpc.net/problem/2630) | [🟦⬜](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/144) |
+| 30차시 | 2024.03.25 | Bellman Ford | [11657 타임머신](https://www.acmicpc.net/problem/11657) | [🕑](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/146) |
+| 31차시 | 2024.03.29 | Divide and Conquer | [1074 Z](https://www.acmicpc.net/problem/1074) | [Z](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/151) |
 | 32차시 | 2024.04.08 | Bellman Ford | [1865](https://www.acmicpc.net/problem/1865) | [🕳️](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/156) |
