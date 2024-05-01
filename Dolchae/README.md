@@ -40,3 +40,5 @@
 | 36차시| 2024.03.14 |  DFS&BFS | [2606 바이러스](https://www.acmicpc.net/problem/2606) | [#136](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/136) |
 | 37차시| 2024.03.19 |  수학 | [11653 소인수분해](https://www.acmicpc.net/problem/11653) | [#141](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/141) |
 | 38차시| 2024.03.22 |  힙 | [1927 최소 힙](https://www.acmicpc.net/problem/1927) | [#145](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/145) |
+| 39차시| 2024.03.25 |  힙 | [11286 절댓값 힙](https://www.acmicpc.net/problem/11286) | [#149](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/149) |
+| 40차시| 2024.04.02 |  수학 | [2407 조합](https://www.acmicpc.net/problem/2407) | [#154](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/154) |
