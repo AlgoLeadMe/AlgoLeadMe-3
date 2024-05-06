@@ -43,4 +43,5 @@
 | 40차시 | 2024.4.2   | Dynamic Programming        | [7579 앱](https://www.acmicpc.net/problem/7579)        | [#153](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/153) |
 | 41차시 | 2024.4.7   | Prefix Sum                 | [2015 수들의 합 4](https://www.acmicpc.net/problem/2015)        | [#155](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/155) |
 | 42차시 | 2024.4.29  | Minimum Spanning Tree(MST) | [17472 다리 만들기 2](https://www.acmicpc.net/problem/17472)    | [#159](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/159) |
-| 43차시 | 2024.4.28  | Data Structure             | [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)    | [#161](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/161) |
+| 43차시 | 2024.4.28  | Data Structure             | [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)    | [#162](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/161) |
+| 44차시 | 2024.5.6   | Backtracking               | [6987 월드컵](https://www.acmicpc.net/problem/6987)    | [#164](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/161) |
