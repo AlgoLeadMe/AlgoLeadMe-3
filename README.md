@@ -49,17 +49,26 @@
   <tr>
     <td align="center"><a href="https://github.com/9kyo-hwang"><img src="https://avatars.githubusercontent.com/u/49135176?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/gjsk132"><img src="https://avatars.githubusercontent.com/u/113815454?v=4" width="100px;" alt=""/>
-    <td align="center"><a href="https://github.com/Dolchae"><img src="https://avatars.githubusercontent.com/u/122661640?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/xxubin04"><img src="https://avatars.githubusercontent.com/u/127945869?v=4" width="100px;" alt=""/>
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/9kyo-hwang" title="Code">9kyo-hwang</a></td>
     <td align="center"><a href="https://github.com/gjsk132" title="Code">gjsk132</a></td>
-    <td align="center"><a href="https://github.com/Dolchae" title="Code">Dolchae</a></td>
     <td align="center"><a href="https://github.com/xxubin04" title="Code">xxubin04</a></td>
   </tr>
 </table>
+<br><br>
 
+**🏆해당 레포지토리 스터디 수료자**
+
+<table>
+  <tr>
+    <td align="center"><a href="http://github.com/Dolchae"><img src="https://avatars.githubusercontent.com/u/122661640?v=4" width="100px;" alt=""/>
+  </tr>
+    <tr>
+    <td align="center">23-11-08 ~<br> 24-04-03</a></td>
+  </tr>
+</table>
 <br><br>
 
 ## 🤝 규칙
