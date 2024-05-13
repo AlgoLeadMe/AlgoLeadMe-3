@@ -33,3 +33,4 @@
 | 31차시 | 2024.03.29 | Divide and Conquer | [1074 Z](https://www.acmicpc.net/problem/1074) | [Z](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/151) |
 | 32차시 | 2024.04.08 | Bellman Ford | [1865](https://www.acmicpc.net/problem/1865) | [🕳️](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/156) |
 | 33차시 | 2024.03.22 | Implementation | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) | [🟦⬜](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/160) |
+| 35차시 | 2024.05.13 | DP | [13910 개업](https://www.acmicpc.net/problem/13910) | [🍳](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/168) |
