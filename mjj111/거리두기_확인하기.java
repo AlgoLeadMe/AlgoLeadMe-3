@@ -43,7 +43,7 @@ class Solution {
 
                 if (p[nr].charAt(nc) == 'P' && d <= 2)
                     return false;
-                else if (p[nr].charAt(nc) == 'O' && d < 2)
+                if (p[nr].charAt(nc) == 'O' && d < 2)
                     queue.offer(new int[] { nr, nc });
             }
         }
