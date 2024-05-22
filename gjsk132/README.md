@@ -33,3 +33,4 @@
 | 31차시 | 2024.03.29 | Divide and Conquer | [1074 Z](https://www.acmicpc.net/problem/1074) | [Z](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/151) |
 | 32차시 | 2024.04.08 | Bellman Ford | [1865](https://www.acmicpc.net/problem/1865) | [🕳️](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/156) |
 | 33차시 | 2024.03.22 | Implementation | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) | [🟦⬜](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/160) |
+| 37차시 | 2024.05.22 | DP | [26093 고양이 목에 리본 달기](https://www.acmicpc.net/problem/26093) | [🐱](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/176) |
