@@ -34,4 +34,4 @@
 | 32차시 | 2024.04.08 | Bellman Ford | [1865 웜홀](https://www.acmicpc.net/problem/1865) | [🕳️](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/156) |
 | 33차시 | 2024.03.22 | Implementation | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) | [🟦⬜](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/160) |
 | 34차시 | 2024.05.06 | Greedy | [1041 주사위](https://www.acmicpc.net/problem/1041) | [🎲](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/165) |
-
+| 38차시 | 2024.05.24 | BFS | [17836 공주님을 구해라!](https://www.acmicpc.net/problem/17836) | [👸](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/180) |
