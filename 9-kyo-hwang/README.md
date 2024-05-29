@@ -46,3 +46,4 @@
 | 43차시 | 2024.4.28  | Data Structure             | [3015 오아시스 재결합](https://www.acmicpc.net/problem/3015)    | [#162](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/162) |
 | 44차시 | 2024.5.6   | Backtracking               | [6987 월드컵](https://www.acmicpc.net/problem/6987)    | [#164](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/164) |
 | 45차시 | 2024.5.9   | Dynamic Programming        | [2240 자두나무](https://www.acmicpc.net/problem/2240)    | [#166](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/166) |
+| 46차시 | 2024.5.13  | Simulation                 | [14503 로봇 청소기](https://www.acmicpc.net/problem/14503)    | [#167](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/167) |
