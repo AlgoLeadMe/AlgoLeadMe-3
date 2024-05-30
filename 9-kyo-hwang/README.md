@@ -51,3 +51,4 @@
 | 48차시 | 2024.5.20  | Shortest Path              | [1162 도로포장](https://www.acmicpc.net/problem/1162)    | [#175](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/175) |
 | 49차시 | 2024.5.23  | Data Structure             | [21939 문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939)    | [#179](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/179) |
 | 50차시 | 2024.5.25  | Graph Traversal            | [26146 즉흥 여행 (Easy)](https://www.acmicpc.net/problem/26146)    | [#182](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/182) |
+| 51차시 | 2024.5.30  | Data Structure             | [21944 문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944)    | [#185](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/185) |
