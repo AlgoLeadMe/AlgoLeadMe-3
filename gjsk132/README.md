@@ -35,4 +35,4 @@
 | 33차시 | 2024.03.22 | Implementation | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) | [🟦⬜](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/160) |
 | 34차시 | 2024.05.06 | Greedy | [1041 주사위](https://www.acmicpc.net/problem/1041) | [🎲](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/165) |
 | 35차시 | 2024.05.13 | DP | [13910 개업](https://www.acmicpc.net/problem/13910) | [🍳](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/168) |
-| 40차시 | 2024.06.04 | BitMasking | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [🗺️](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/188) |
+| 40차시 | 2024.06.04 | BitMasking | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [🗺️](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/190) |
