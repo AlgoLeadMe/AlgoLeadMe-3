@@ -36,3 +36,4 @@
 | 34차시 | 2024.05.06 | Greedy | [1041 주사위](https://www.acmicpc.net/problem/1041) | [🎲](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/165) |
 | 35차시 | 2024.05.13 | DP | [13910 개업](https://www.acmicpc.net/problem/13910) | [🍳](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/168) |
 | 36차시 | 2024.05.18 | Geometry | [다각형의 면적](https://www.acmicpc.net/problem/2166) | [⛧](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/174) |
+| 37차시 | 2024.05.22 | DP | [26093 고양이 목에 리본 달기](https://www.acmicpc.net/problem/26093) | [🐱](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/176) |
