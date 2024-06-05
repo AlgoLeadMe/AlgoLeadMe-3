@@ -48,3 +48,4 @@
 | 44차시 | 2024.05.06 |  BackTracking  | <a href="https://www.acmicpc.net/problem/6603">[6603]로또</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/163 |
 | 45차시 | 2024.05.14 |  Math  | <a href="https://www.acmicpc.net/problem/8989">[8989]시계</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/170 |
 | 46차시 | 2024.05.16 |  Binary Search  | <a href="https://www.acmicpc.net/problem/16401">[16401]과자 나눠주기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/173 |
+| 47차시 | 2024.05.23 |  Math  | <a href="https://www.acmicpc.net/problem/14241">[14241]슬라임 합치기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/178 |
