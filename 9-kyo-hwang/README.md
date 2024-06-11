@@ -48,3 +48,4 @@
 | 45차시 | 2024.5.9   | Dynamic Programming        | [2240 자두나무](https://www.acmicpc.net/problem/2240)    | [#166](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/166) |
 | 46차시 | 2024.5.13  | Simulation                 | [14503 로봇 청소기](https://www.acmicpc.net/problem/14503)    | [#167](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/167) |
 | 47차시 | 2024.5.16  | Brute Force                | [14500 테트로미노](https://www.acmicpc.net/problem/14503)    | [#171](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/171) |
+| 48차시 | 2024.5.20  | Shortest Path              | [1162 도로포장](https://www.acmicpc.net/problem/1162)    | [#175](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/175) |
