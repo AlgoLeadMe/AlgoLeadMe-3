@@ -50,3 +50,4 @@
 | 46차시 | 2024.05.16 |  Binary Search  | <a href="https://www.acmicpc.net/problem/16401">[16401]과자 나눠주기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/173 |
 | 47차시 | 2024.05.23 |  Math  | <a href="https://www.acmicpc.net/problem/14241">[14241]슬라임 합치기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/178 |
 | 48차시 | 2024.05.27 |  구현  | <a href="https://leetcode.com/problems/valid-palindrome">[125]Valid Palindrome</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/182 |
+| 49차시 | 2024.05.30 |  Hash  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92341?language=python3">[2022_KAKAO]주차 요금 계산</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/184 |
