@@ -39,3 +39,4 @@
 | 37차시 | 2024.05.22 | DP | [26093 고양이 목에 리본 달기](https://www.acmicpc.net/problem/26093) | [🐱](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/176) |
 | 38차시 | 2024.05.24 | BFS | [17836 공주님을 구해라!](https://www.acmicpc.net/problem/17836) | [👸](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/180) |
 | 39차시 | 2024.05.29 | Dijkstra | [11781 퇴근 시간](https://www.acmicpc.net/problem/11781) | [🚌](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/183) |
+| 41차시 | 2024.07.01 | TSP | [2098 외판원 순회](https://www.acmicpc.net/problem/2098) | [✈️](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/195) |
