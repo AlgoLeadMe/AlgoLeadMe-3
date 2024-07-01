@@ -52,3 +52,4 @@
 | 48차시 | 2024.05.27 |  구현  | <a href="https://leetcode.com/problems/valid-palindrome">[125]Valid Palindrome</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/182 |
 | 49차시 | 2024.05.30 |  Hash  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92341?language=python3">[2022_KAKAO]주차 요금 계산</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/184 |
 | 50차시 | 2024.06.04 |  구현  | <a href="https://leetcode.com/problems/longest-common-prefix/description/">[14]Longest Common Prefix</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/191 |
+| 51차시 | 2024.07.01 |  Math  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/140107">[Programmers]점 찍기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/194 |
