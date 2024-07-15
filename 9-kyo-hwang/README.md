@@ -57,3 +57,4 @@
 | 54차시 | 2024.7.04  | Data Structure             | [16934 게임 닉네임](https://www.acmicpc.net/problem/16934)   | [#197](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/197) |
 | 55차시 | 2024.7.09  | Simulation                 | [17144 미세먼지 안녕!](https://www.acmicpc.net/problem/16934)   | [#202](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/202) |
 | 56차시 | 2024.7.12  | Tree                       | [15681 트리와 쿼리](https://www.acmicpc.net/problem/15681)   | [#204](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/204) |
+| 57차시 | 2024.7.15  | Dynamic Programming        | [17070 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   | [#206](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/206) |
