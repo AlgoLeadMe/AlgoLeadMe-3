@@ -47,4 +47,12 @@
 | 43차시 | 2024.05.02 |  Math  | <a href="https://www.acmicpc.net/problem/16943">[16943]숫자 재배치</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/161 |
 | 44차시 | 2024.05.06 |  BackTracking  | <a href="https://www.acmicpc.net/problem/6603">[6603]로또</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/163 |
 | 45차시 | 2024.05.14 |  Math  | <a href="https://www.acmicpc.net/problem/8989">[8989]시계</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/170 |
-| 44차시 | 2024.05.06 |  Math  | <a href="https://www.acmicpc.net/problem/6603">[6603]로또</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/163 |
+| 46차시 | 2024.05.16 |  Binary Search  | <a href="https://www.acmicpc.net/problem/16401">[16401]과자 나눠주기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/173 |
+| 47차시 | 2024.05.23 |  Math  | <a href="https://www.acmicpc.net/problem/14241">[14241]슬라임 합치기</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/178 |
+| 48차시 | 2024.05.27 |  구현  | <a href="https://leetcode.com/problems/valid-palindrome">[125]Valid Palindrome</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/182 |
+| 49차시 | 2024.05.30 |  Hash  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92341?language=python3">[2022_KAKAO]주차 요금 계산</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/184 |
+| 50차시 | 2024.06.04 |  구현  | <a href="https://leetcode.com/problems/longest-common-prefix/description/">[14]Longest Common Prefix</a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/191 |
+| 51차시 | 2024.07.01 |  Math  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/140107">[Programmers]점 찍기 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/194 |
+| 52차시 | 2024.07.05 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64065">[2019 카카오 인턴십]튜플 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/198 |
+| 53차시 | 2024.07.08 |  DP  | <a href="https://www.acmicpc.net/problem/2193">[2193]이친수 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/200 |
+| 54차시 | 2024.07.11 |  Tree  | <a href="https://www.acmicpc.net/problem/1991">[1991]트리 순회 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/203 |

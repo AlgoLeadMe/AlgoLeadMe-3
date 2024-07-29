@@ -25,7 +25,7 @@
 | 23차시 | 2024.02.27 | Sort | [18870 좌표 압축](https://www.acmicpc.net/problem/18870) | [📌](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/117) |
 | 24차시 | 2024.03.03 | Greedy | [15903 카드 합체 놀이](https://www.acmicpc.net/problem/159030]) | [🃏](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/122) |
 | 25차시 | 2024.03.05 | Perfix Sum | [21758 꿀 따기](https://www.acmicpc.net/problem/21758) | [🍯](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/126) |
-| 26차시 | 2024.03.09 | Greedy | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927#) | [🍯](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/130) |
+| 26차시 | 2024.03.09 | Greedy | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927#) | [👩‍💼](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/130) |
 | 27차시 | 2024.03.12 | Greedy | [1911 흙길 보수하기](https://www.acmicpc.net/problem/1911) | [🔨](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/134) |
 | 28차시 | 2024.03.19 | Backtracking | [애너그램](https://www.acmicpc.net/problem/6443) | [📔](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/139) |
 | 29차시 | 2024.03.22 | Divide and Conquer | [2630 색종이 만들기](https://www.acmicpc.net/problem/2630) | [🟦⬜](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/144) |
@@ -35,4 +35,8 @@
 | 33차시 | 2024.03.22 | Implementation | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) | [🟦⬜](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/160) |
 | 34차시 | 2024.05.06 | Greedy | [1041 주사위](https://www.acmicpc.net/problem/1041) | [🎲](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/165) |
 | 35차시 | 2024.05.13 | DP | [13910 개업](https://www.acmicpc.net/problem/13910) | [🍳](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/168) |
+| 36차시 | 2024.05.18 | Geometry | [다각형의 면적](https://www.acmicpc.net/problem/2166) | [⛧](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/174) |
+| 37차시 | 2024.05.22 | DP | [26093 고양이 목에 리본 달기](https://www.acmicpc.net/problem/26093) | [🐱](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/176) |
+| 38차시 | 2024.05.24 | BFS | [17836 공주님을 구해라!](https://www.acmicpc.net/problem/17836) | [👸](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/180) |
+| 39차시 | 2024.05.29 | Dijkstra | [11781 퇴근 시간](https://www.acmicpc.net/problem/11781) | [🚌](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/183) |
 | 40차시 | 2024.06.04 | BitMasking | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [🗺️](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/190) |
