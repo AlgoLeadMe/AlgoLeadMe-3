@@ -59,3 +59,4 @@
 | 56차시 | 2024.7.12  | Tree                       | [15681 트리와 쿼리](https://www.acmicpc.net/problem/15681)   | [#204](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/204) |
 | 57차시 | 2024.7.15  | Dynamic Programming        | [17070 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   | [#206](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/206) |
 | 58차시 | 2024.7.29  | Trie                       | [14725 개미굴](https://www.acmicpc.net/problem/14725)   | [#207](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/207) |
+| 59차시 | 2024.8.01  | Greedy                     | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)   | [#210](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/210) |
