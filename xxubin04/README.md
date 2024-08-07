@@ -56,3 +56,4 @@
 | 52차시 | 2024.07.05 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64065">[2019 카카오 인턴십]튜플 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/198 |
 | 53차시 | 2024.07.08 |  DP  | <a href="https://www.acmicpc.net/problem/2193">[2193]이친수 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/200 |
 | 54차시 | 2024.07.11 |  Tree  | <a href="https://www.acmicpc.net/problem/1991">[1991]트리 순회 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/203 |
+| 55차시 | 2024.07.29 |  정렬  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747?language=python3">[Programmers]H-Index </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/208 |
