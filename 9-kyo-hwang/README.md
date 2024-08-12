@@ -61,4 +61,5 @@
 | 58차시 | 2024.7.29  | Trie                       | [14725 개미굴](https://www.acmicpc.net/problem/14725)   | [#207](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/207) |
 | 59차시 | 2024.8.01  | Greedy                     | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)   | [#210](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/210) |
 | 60차시 | 2024.8.05  | Implementation             | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)   | [#213](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/213) |
-| 60차시 | 2024.8.08  | Implementation             | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)   | [#214](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/214) |
+| 61차시 | 2024.8.08  | Implementation             | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)   | [#214](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/214) |
+| 62차시 | 2024.8.12  | Graph Traversal            | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)   | [#217](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/217) |
