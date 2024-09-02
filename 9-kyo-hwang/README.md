@@ -52,4 +52,7 @@
 | 49차시 | 2024.5.23  | Data Structure             | [21939 문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939)    | [#179](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/179) |
 | 50차시 | 2024.5.25  | Graph Traversal            | [26146 즉흥 여행 (Easy)](https://www.acmicpc.net/problem/26146)    | [#182](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/182) |
 | 51차시 | 2024.5.30  | Data Structure             | [21944 문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944)    | [#185](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/185) |
-| 52차시 | 2024.6.03  | Data Structure             | [2019 KAKAO BLIND RECRUITMENT 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890?language=cpp)   | [#187](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/187) |
+| 52차시 | 2024.6.03  | Data Structure             | [2019 KAKAO BLIND RECRUITMENT 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)   | [#187](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/187) |
+| 53차시 | 2024.7.01  | Graph Traversal            | [월간 코드 챌린지 시즌3 빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)   | [#193](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/193) |
+| 54차시 | 2024.7.04  | Data Structure             | [16934 게임 닉네임](https://www.acmicpc.net/problem/16934)   | [#197](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/197) |
+| 55차시 | 2024.7.09  | Simulation                 | [17144 미세먼지 안녕!](https://www.acmicpc.net/problem/16934)   | [#202](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/202) |
