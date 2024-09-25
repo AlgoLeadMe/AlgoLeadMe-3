@@ -63,3 +63,4 @@
 | 60차시 | 2024.8.05  | Implementation             | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)   | [#213](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/213) |
 | 61차시 | 2024.8.08  | Implementation             | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)   | [#214](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/214) |
 | 62차시 | 2024.8.12  | Graph Traversal            | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)   | [#217](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/217) |
+| 63차시 | 2024.9.3   | Binary Search              | [구간 나누기2](https://www.acmicpc.net/problem/13397)   | [#218](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/218) |
