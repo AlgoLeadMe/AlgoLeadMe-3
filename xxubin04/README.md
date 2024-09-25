@@ -57,6 +57,7 @@
 | 53차시 | 2024.07.08 |  DP  | <a href="https://www.acmicpc.net/problem/2193">[2193]이친수 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/200 |
 | 54차시 | 2024.07.11 |  Tree  | <a href="https://www.acmicpc.net/problem/1991">[1991]트리 순회 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/203 |
 | 55차시 | 2024.07.29 |  정렬  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747?language=python3">[Programmers]H-Index </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/208 |
-| 55차시 | 2024.07.29 |  정렬  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747?language=python3">[Programmers]H-Index </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/208 |
+| 56차시 | 2024.08.05 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17677#">[2018 KAKAO BLIND]뉴스 클러스터링 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/211 |
+| 57차시 | 2024.08.08 |  Hash  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888">[2019 KAKAO BLIND]오픈채팅방 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/215 |
 | 58차시 | 2024.09.04 |  DP  | <a href="https://www.acmicpc.net/problem/9095">[9095]1,2,3 더하기 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/219 |
 | 59차시 | 2024.09.08 |  BFS  | <a href="https://www.acmicpc.net/problem/21736">[21736]헌내기는 친구가 필요해 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/220 |
