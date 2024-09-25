@@ -59,3 +59,4 @@
 | 55차시 | 2024.07.29 |  정렬  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747?language=python3">[Programmers]H-Index </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/208 |
 | 56차시 | 2024.08.05 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17677#">[2018 KAKAO BLIND]뉴스 클러스터링 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/211 |
 | 57차시 | 2024.08.08 |  Hash  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888">[2019 KAKAO BLIND]오픈채팅방 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/215 |
+| 58차시 | 2024.09.04 |  DP  | <a href="hthttps://www.acmicpc.net/problem/9095">[9095]1,2,3 더하기 </a>  | https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/219 |
