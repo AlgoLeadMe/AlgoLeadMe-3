@@ -52,4 +52,14 @@
 | 49차시 | 2024.5.23  | Data Structure             | [21939 문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939)    | [#179](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/179) |
 | 50차시 | 2024.5.25  | Graph Traversal            | [26146 즉흥 여행 (Easy)](https://www.acmicpc.net/problem/26146)    | [#182](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/182) |
 | 51차시 | 2024.5.30  | Data Structure             | [21944 문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944)    | [#185](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/185) |
-| 52차시 | 2024.6.03  | Data Structure             | [2019 KAKAO BLIND RECRUITMENT 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890?language=cpp)   | [#187](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/187) |
+| 52차시 | 2024.6.03  | Data Structure             | [2019 KAKAO BLIND RECRUITMENT 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)   | [#187](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/187) |
+| 53차시 | 2024.7.01  | Graph Traversal            | [월간 코드 챌린지 시즌3 빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)   | [#193](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/193) |
+| 54차시 | 2024.7.04  | Data Structure             | [16934 게임 닉네임](https://www.acmicpc.net/problem/16934)   | [#197](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/197) |
+| 55차시 | 2024.7.09  | Simulation                 | [17144 미세먼지 안녕!](https://www.acmicpc.net/problem/16934)   | [#202](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/202) |
+| 56차시 | 2024.7.12  | Tree                       | [15681 트리와 쿼리](https://www.acmicpc.net/problem/15681)   | [#204](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/204) |
+| 57차시 | 2024.7.15  | Dynamic Programming        | [17070 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)   | [#206](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/206) |
+| 58차시 | 2024.7.29  | Trie                       | [14725 개미굴](https://www.acmicpc.net/problem/14725)   | [#207](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/207) |
+| 59차시 | 2024.8.01  | Greedy                     | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)   | [#210](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/210) |
+| 60차시 | 2024.8.05  | Implementation             | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)   | [#213](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/213) |
+| 61차시 | 2024.8.08  | Implementation             | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)   | [#214](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/214) |
+| 62차시 | 2024.8.12  | Graph Traversal            | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)   | [#217](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/217) |
