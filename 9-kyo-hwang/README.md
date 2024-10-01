@@ -67,4 +67,5 @@
 | 64차시 | 2024.9.8   | Binary Search              | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)   | [#221](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/221) |
 | 65차시 | 2024.9.11  | Greedy                     | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)   | [#224](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/224) |
 | 66차시 | 2024.9.14  | Sliding Window             | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)   | [#225](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/225) |
-| 67차시 | 2024.9.23  | Graph Traversal            | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/84021)   | [#228](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/228) |
+| 67차시 | 2024.9.23  | Graph Traversal            | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)   | [#228](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/228) |
+| 68차시 | 2024.10.1  | Greedy                     | [2024 KAKAO WINTER INTERNSHIP n + 1 카드 게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)   | [#230](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/230) |
