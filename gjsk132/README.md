@@ -41,3 +41,4 @@
 | 39차시 | 2024.05.29 | Dijkstra | [11781 퇴근 시간](https://www.acmicpc.net/problem/11781) | [🚌](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/183) |
 | 40차시 | 2024.06.04 | BitMasking | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [🗺️](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/190) |
 | 41차시 | 2024.07.01 | TSP | [2098 외판원 순회](https://www.acmicpc.net/problem/2098) | [✈️](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/195) |
+| 43차시 | 2024.11.03 | Two Pointer | [20366 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) | [☃️](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/234) |
