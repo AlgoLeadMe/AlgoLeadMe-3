@@ -70,3 +70,4 @@
 | 67차시 | 2024.9.23  | Graph Traversal            | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)   | [#228](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/228) |
 | 68차시 | 2024.10.1  | Greedy                     | [2024 KAKAO WINTER INTERNSHIP n + 1 카드 게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)   | [#230](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/230) |
 | 69차시 | 2024.10.8  | Graph Traversal            | [2022 KAKAO BLIND RECRUITMENT 사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)   | [#232](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/232) |
+| 70차시 | 2024.11.2  | Graph Traversal            | [2021 KAKAO BLIND RECRUITMENT 매출 하락 최소화](https://school.programmers.co.kr/learn/courses/30/lessons/72416)   | [#233](https://github.com/AlgoLeadMe/AlgoLeadMe-3/pull/233) |
